@@ -54,6 +54,8 @@ This Power BI project offers an in-depth analysis of Spotify data, focusing on v
    - Calculated the total sum of streams and the count of unique artists and track names in the dataset.
 
 
+https://github.com/Navya1223/SPOTIFY-SALES-ANALYSIS/blob/main/Dashboard.png
+
 **Conclusion:**
 This Power BI project showcases the utilization of advanced analytics techniques to derive insights from Spotify data. By leveraging Power BI's features and techniques such as measures, KPIs, ETL, data modeling, and DAX expressions, the analysis provides valuable insights into streaming trends, track popularity, and artist performance.
 
